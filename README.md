@@ -1,6 +1,7 @@
 # deconvolution-wat
-# An optimized pipeline for high- throughput bulk RNA-Seq deconvolution pipeline reveals cell composition changes in adipose tissue withduring obesity and with weight loss 
-Cheehoon Ahn<sup>1</sup>, Adeline Divoux<sup>1</sup>, Mingqi Zhou<sup>2</sup>, Marcus M Seldin<sup>1</sup>, Lauren M Sparks<sup>1</sup> * **, Katie L Whytock<sup>1</sup> * 
+# Optimized RNA-Seq deconvolution illustrates the impact of obesity and weight loss on cell composition of human adipose tissue
+ 
+Cheehoon Ahn<sup>1</sup>, Adeline Divoux<sup>1</sup>, Mingqi Zhou<sup>2</sup>, Marcus M Seldin<sup>2</sup>, Lauren M Sparks<sup>1</sup> * **, Katie L Whytock<sup>1</sup> * 
 
 <sup>1</sup>Translational Research Institute, AdventHealth, Orlando, FL, USA 
 <sup>2</sup>Department of Biological Chemistry and Center for Epigenetics and Metabolism, University of California, Irvine, Irvine, CA, USA 
