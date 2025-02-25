@@ -8,8 +8,14 @@ Cheehoon Ahn<sup>1</sup>, Adeline Divoux<sup>1</sup>, Mingqi Zhou<sup>2</sup>, M
 *Co-corresponding author 
 **Senior author 
 
-## SUMMARY 
+## Abstract 
+Objective: Cellular heterogeneity of human adipose tissue is linked to the pathophysiology of obesity and may impact the response to energy restriction and changes in fat mass. Here, we provide an optimized pipeline to estimate cellular composition in human abdominal subcutaneous adipose tissue (ASAT) bulk RNA-seq datasets using single-nuclei (sn)RNA-seq signature matrix. 
 
-Cellular heterogeneity in adipose tissue, where more than half of the cells are non-adipocytes, is implicated linkedin to the pathophysiology of obesity. Here, we provide an pipeline optimized pipeline to estimate cellular composition in human abdominal subcutaneous adipose tissue (ASAT) from bulk RNA-Sseq using signature profiles from full-length snRNA-Seq. Individuals with Oobesity compared towith  lean had greater proportions of macrophages and lower proportions of different adipocytes sub-populations and vascular cells. The optimized pipeline estimated higher proportions of macrophages and lower proportions of adipocytes and vascular cells in individuals with obesity compared with lean. Importantly, metabolically healthy individuals with obesity were estimated to have lower proportions of macrophages and vascular cells, and higher proportion of insulin-responsive adipocytes compared with a well-matched metabolically unhealthy group. Additionally, while the estimated proportion of macrophages was reduced by years of diet-induced weight loss (DIWL), it was estimated to increase by two-month of DIWL, suggesting a bi-phasic nature of cellular remodeling of ASAT during weight loss. Our optimized high-throughput pipeline allows researchers to assessassessment of cell composition changes of highly characterized cell types in large quantities of ASAT samples using low-cost bulk RNA-Seq and reveals novel changes in cellular heterogeneity and its association with cardiometabolic health. 
+Methods: A deconvolution pipeline for ASAT was optimized by benchmarking publicly available algorithms using a signature matrix derived from ASAT snRNA-Seq data from 20 adults, then applied to estimate ASAT cell-type proportions in publicly available obesity and weight loss studies. 
+
+Results: Individuals with obesity had greater proportions of macrophages and lower proportions of adipocyte sub-populations and vascular cells compared with lean individuals. Two months of diet-induced weight loss increased the estimated proportions of macrophages; however, two years of DIWL reduced the estimated proportions of macrophages, thereby suggesting a bi-phasic nature of cellular remodeling of ASAT during weight loss. 
+
+Conclusion: Our optimized high-throughput pipeline facilitates the assessment of composition changes of highly characterized cell types in large numbers of ASAT samples using low-cost bulk RNA-Seq. Our data reveal novel changes in cellular heterogeneity and its association with cardiometabolic health in humans with obesity and following weight loss.
+
 
 ### Scripts provided in the folder include; data source generation and the optimized deconvolution pipeline
