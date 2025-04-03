@@ -20,3 +20,4 @@ Conclusion: Our optimized high-throughput pipeline facilitates the assessment of
 
 
 ### Scripts provided in the folder include; data source generation and the optimized deconvolution pipeline
+### Original article has been published: https://onlinelibrary.wiley.com/doi/full/10.1002/oby.24264
